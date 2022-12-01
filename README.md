@@ -16,5 +16,14 @@ Tiago Monteiro Simões Calvacanti.
 
 •Atualização(01/12/2022) - Coloquei um vídeo demonstrativo/explicativo do Projeto no branch "master".
 
-•Atualização(01/12/2022) - Como o GitHub não aceita subir arquivos .sql, copiei o arquvio e colei tudo em um bloco de notas e postei no branch "master". E também tirei print do Banco de Dados no phpmyadmin.
+•Atualização(01/12/2022) - Como não consegui subir o arquivo .sql do banco de dados, copiei o código do arquivo e colei tudo em um bloco de notas e postei no branch "master". E também tirei print do Banco de Dados no phpmyadmin para melhor visualização.
 
+Obs: Arquivos que utilizam banco de dados sql = 
+
+• conectar_login.php •
+• conectar_reserva.php •
+• inserir_reserva.php •
+• reservas_feitas.php •
+*• calculo_reserva.php •* (como fiz o cálculo da reserva)
+
+O resto dos arquivos é HTML e CSS

@@ -1,4 +1,7 @@
 # Projeto-Hotel-Daniel
+
+OBS: AS PASTAS E OS ARQUIVOS ESTÃO NO BRANCH "MASTER"!!!
+
 Projeto sobre Hotel com HTML, CSS e PHP - Prof Daniel
 
 DESCRIÇÃO: 

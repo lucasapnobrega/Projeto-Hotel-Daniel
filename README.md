@@ -10,3 +10,5 @@ Ter opções sobre o hotel, os espaços que possui, informações sobre os quart
 PARTICIPANTES:
 Lucas Alcântara Pinho da Nóbrega.
 Tiago Monteiro Simões Calvacanti.
+
+Atualização(01/12/2022) - Coloquei os todos os arquivos HTML, CSS E PHP no "master"

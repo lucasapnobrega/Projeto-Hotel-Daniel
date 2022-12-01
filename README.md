@@ -11,8 +11,9 @@ FUNCIONALIDADE:
 Ter opções sobre o hotel, os espaços que possui, informações sobre os quartos e login. Quando faz o login abre um Painel Privado que apresenta as praias e é onde faz a reserva.
 
 PARTICIPANTES:
-Lucas Alcântara Pinho da Nóbrega.
-Tiago Monteiro Simões Calvacanti.
+Lucas Alcântara Pinho da Nóbrega (RGM: 29319161).
+
+Tiago Monteiro Simões Calvacanti (RGM: 31638228).
 
 
 •Atualização(01/12/2022) - Coloquei os todos os arquivos HTML, CSS E PHP no branch "master".

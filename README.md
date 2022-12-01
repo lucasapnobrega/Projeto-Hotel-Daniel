@@ -13,6 +13,7 @@ Ter opções sobre o hotel, os espaços que possui, informações sobre os quart
 PARTICIPANTES:
 Lucas Alcântara Pinho da Nóbrega (RGM: 29319161).
 
+PARTICIPANTES:
 Tiago Monteiro Simões Calvacanti (RGM: 31638228).
 
 

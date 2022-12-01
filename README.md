@@ -21,9 +21,12 @@ Tiago Monteiro Simões Calvacanti.
 Obs: Arquivos que utilizam banco de dados sql = 
 
 • conectar_login.php •
-• conectar_reserva.php •
-• inserir_reserva.php •
-• reservas_feitas.php •
-*• calculo_reserva.php •* (como fiz o cálculo da reserva)
 
-O resto dos arquivos é HTML e CSS
+• conectar_reserva.php •
+
+• inserir_reserva.php •
+
+• reservas_feitas.php •
+
+• calculo_reserva.php • (como fiz o cálculo da reserva)
+
